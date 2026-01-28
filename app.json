@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "trade_mobile",
+    "slug": "trade_mobile",
+    "updates": {
+      "enabled": false
+    }
+  }
+}
